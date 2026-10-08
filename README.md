@@ -1,1 +1,1 @@
-Add course README
+Week 1: Learned Git and GitHub.
